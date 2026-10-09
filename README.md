@@ -28,3 +28,6 @@ Lienzo de trazo manual para cada una de las vocales (*"¡Aprende a escribir la X
 ### 5. Módulo "Examencito"
 ![Captura 1](Captura%20de%20pantalla%202026-09-28%20193508.png)
 Evaluación interactiva donde se reproduce el sonido de una vocal mediante un botón de audio para que el estudiante identifique y seleccione la opción correcta.
+
+
+[Probar prototipo interactivo en Figma](https://www.figma.com/proto/w0mqtIYejyvIuUHCdVshoy/Juego-vocales?node-id=0-1&t=9paSS1xNX1fyxni9-1)
